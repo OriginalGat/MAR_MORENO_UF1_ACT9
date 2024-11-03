@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activdad9</string>
+    <string name="button">Botón</string>
+    <string name="button2">Botón2</string>
+    <string name="button3">Cambio Pantalla</string>
+    <string name="button4">Botón</string>
+    <string name="button5">Botón2</string>
+    <string name="button6">Vuelta al inicio</string>
+    <string name="LinearLayout">LinearLayout</string>
+</resources>
